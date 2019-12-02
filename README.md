@@ -1,0 +1,3 @@
+This project basically deals with multiple ideas which consists of various aspects of python language.It contains REST-Api(Django) project which basically deals with CRUD analysis.
+On the other hand,This project depicts ETL(Extract Transform Load) the data of sites.
+This also provides a project dealing with speech of appropriate data in python language.This would greatly help and would make it a perfect book for python with sum of python projects.
